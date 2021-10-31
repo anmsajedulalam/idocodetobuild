@@ -31,13 +31,13 @@
     - ⚡ Fun fact: I think cooking is more like coding. 
 </p>
 <p align='center'>
-    [![Neucro's github stats](https://github-readme-stats.vercel.app/api?username=idocodetobuild&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/idocodetobuild/github-readme-stats)
+[![Sajid's github stats](https://github-readme-stats.vercel.app/api?username=idocodetobuild&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/idocodetobuild/github-readme-stats)
 </p>
 <p align='center'>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idocodetobuild&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/idocodetobuild/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idocodetobuild&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/idocodetobuild/github-readme-stats)
 </p>
 <p align='center'>
-    ![Alt Text](https://media.giphy.com/media/OasSW8GLzw8Fb6R8hv/giphy.gif)
+![Alt Text](https://media.giphy.com/media/OasSW8GLzw8Fb6R8hv/giphy.gif)
 </p>
 
 <!--![Alt Text](https://media.giphy.com/media/lZ9OcB2Y1YqJxPXZU0/giphy.gif)-->
