@@ -8,8 +8,8 @@
 <p align='center'>
     <font size="90"><b>Hello there I am Sajid! 👋</b></font>
 </p>
-
-I am a curious guy who has desire for tech and research. Trying to learn something each day. I love to code and build things. My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collaborate in research and development related to data.
+<p align='center'>
+    I am a curious guy who has desire for tech and research. Trying to learn something each day. I love to code and build things. My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collaborate in research and development related to data.
 
 I also have interest in Mobile App Development. I am interested to work with Android and Flutter.
 
@@ -26,6 +26,8 @@ In short:
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I think cooking is more like coding. 
 
+
+</p>
 
 [![Neucro's github stats](https://github-readme-stats.vercel.app/api?username=idocodetobuild&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/neucro/github-readme-stats)
 
