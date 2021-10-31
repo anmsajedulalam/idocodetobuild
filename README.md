@@ -27,9 +27,9 @@ In short:
 - ⚡ Fun fact: I think cooking is more like coding. 
 
 
-[![Neucro's github stats](https://github-readme-stats.vercel.app/api?username=neucro&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/neucro/github-readme-stats)
+[![Neucro's github stats](https://github-readme-stats.vercel.app/api?username=idocodetobuild&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/neucro/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neucro&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/neucro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idocodetobuild&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/neucro/github-readme-stats)
 
 ![Alt Text](https://media.giphy.com/media/OasSW8GLzw8Fb6R8hv/giphy.gif)
 
