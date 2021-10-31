@@ -20,7 +20,7 @@
     Currently I am trying to do some good projects out of my own interest.
 </p>
 <p align='center'>
-    In short:
+    <b>In Short:</b>
 </p>
     - 🔭 I’m currently working on my personal projects related to business analytics.
     - 🌱 I’m currently trying to learn more about data science.
