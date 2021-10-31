@@ -6,7 +6,7 @@
     </p>
 </p>
 <p align='center'>
-    <font size="90"><b>Hello there I am Sajid! 👋</b></font>
+    <b>Greetings, this is Sajid! :bowtie: </b>
 </p>
 <p align='center'>
     <font size="1">
