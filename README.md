@@ -6,7 +6,7 @@
     </p>
 </p>
 <p align='center'>
-    <font size="90">Hello there I am Sajid! 👋</font>
+    <font size="90"><b>Hello there I am Sajid! 👋</b></font>
 </p>
 
 I am a curious guy who has desire for tech and research. Trying to learn something each day. I love to code and build things. My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collaborate in research and development related to data.
