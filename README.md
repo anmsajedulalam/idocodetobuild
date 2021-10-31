@@ -30,7 +30,6 @@
 - 🤔 I’m looking for help with jobs.
 - 💬 Ask me about giving me opportunities.
 - 📫 How to reach me: mail me at- sajidcsebu@gmail.com
-- :star2: Connect with me in LinkedIn: https://www.linkedin.com/in/a-n-m-sajedul-alam-734b7958/
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I think cooking is more like coding. 
 
