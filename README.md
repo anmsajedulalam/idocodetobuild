@@ -10,7 +10,8 @@
 </p>
 <p align='center'>
     <font size="1">
-        I am a curious guy who has desire for tech and research. Trying to learn something each day. I love to code and build things. My current                           focus is to work with AI/ML/DL. At present actively looking for opportunities to collaborate in research and development related to data.
+        I am a curious guy who has desire for tech and research. Trying to learn something each day. I love to code and build things. 
+        My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collaborate in research and development related to data.
     <font size="1">
 </p>
 <p align='center'>
