@@ -22,6 +22,7 @@
 <p align='center'>
     <b>In Short:</b>
 </p>
+        <p align='center'>
     - 🔭 I’m currently working on my personal projects related to business analytics.
     - 🌱 I’m currently trying to learn more about data science.
     - 👯 I’m looking to collaborate on AI/ML/DL Projects.
@@ -30,6 +31,7 @@
     - 📫 How to reach me: mail me.
     - 😄 Pronouns: He/His.
     - ⚡ Fun fact: I think cooking is more like coding. 
+            </p>
 
 
 [![Sajid's github stats](https://github-readme-stats.vercel.app/api?username=idocodetobuild&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/idocodetobuild/github-readme-stats)
