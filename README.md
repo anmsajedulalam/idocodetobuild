@@ -24,14 +24,14 @@
     <b>In Short:</b>
 </p>
 
-- 🔭 I’m currently working on my personal projects related to business analytics.
-- 🌱 I’m currently trying to learn more about data science.
-- 👯 I’m looking to collaborate on AI/ML/DL Projects.
-- 🤔 I’m looking for help with jobs.
-- 💬 Ask me about giving me opportunities.
-- 📫 How to reach me: mail me at- sajidcsebu@gmail.com
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: I think cooking is more like coding. 
+<p align='center'>- 🔭 I’m currently working on my personal projects related to business analytics.</p>
+<p align='center'>- 🌱 I’m currently trying to learn more about data science.</p>
+<p align='center'>- 👯 I’m looking to collaborate on AI/ML/DL Projects.</p>
+<p align='center'>- 🤔 I’m looking for help with jobs.</p>
+<p align='center'>- 💬 Ask me about giving me opportunities.</p>
+<p align='center'>- 📫 How to reach me: mail me at- sajidcsebu@gmail.com</p>
+<p align='center'>- 😄 Pronouns: He/His.</p>
+<p align='center'>- ⚡ Fun fact: I think cooking is more like coding.</p> 
 
 
 [![Sajid's github stats](https://github-readme-stats.vercel.app/api?username=idocodetobuild&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/idocodetobuild/github-readme-stats)
