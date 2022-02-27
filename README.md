@@ -10,12 +10,12 @@
 </p>
 <p align='center'>
     <font size="1">
-        I am a curious dumb guy who has desire for tech and research. Trying to learn something each day. I love to code and build things. 
-        <b>My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collaborate in research and development related to data.</b>
+        I am a curious dumb guy who has a desire for tech and research. Trying to learn something each day. I love to code and build things. 
+        <b>My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collaborate in research and development related to data. </b>
     <font size="1">
 </p>
 <p align='center'>
-    I also have interest in Mobile/Web App Development. I am have worked with Android and learning React Native now. I know html.
+    I also have an interest in Mobile/Web App Development. I am have worked with Android and learning React Native now. I know HTML.
 </p>
 <p align='center'>
     Currently I am trying to do some good projects out of my own interest.
@@ -24,14 +24,14 @@
     <b>In Short:</b>
 </p>
 
-<p align='center'>- 🔭 I’m currently working on my personal projects related to data science.</p>
-<p align='center'>- 🌱 I’m currently trying to learn more about data science.</p>
-<p align='center'>- 👯 I’m looking to collaborate on AI/ML/DL Projects.</p>
-<p align='center'>- 🤔 I’m looking for help with journal paper collaboration.</p>
-<p align='center'>- 💬 Ask me about anything you would like to know more to work with me?.</p>
-<p align='center'>- 📫 How to reach me: If you really want to reach me, you will find out anyway.</p>
-<p align='center'>- 😄 Pronouns: He/His.</p>
-<p align='center'>- ⚡ Fun fact: I think cooking is more like coding. I like to cook and I am happy that I sometimes make fusion recipes out of nowhere in my leisure time. I make coffee, because it makes me feel better. The smell of the coffee makes me refilled to start from the beginning of my mind.</p> 
+<p align='center'>- 🔭 I’m currently working on my personal projects related to data science. </p>
+<p align='center'>- 🌱 I’m currently trying to learn more about data science. </p>
+<p align='center'>- 👯 I’m looking to collaborate on AI/ML/DL Projects. </p>
+<p align='center'>- 🤔 I’m looking for help with journal paper collaboration. </p>
+<p align='center'>- 💬 Ask me about anything you would like to know more about working with me? </p>
+<p align='center'>- 📫 How to reach me: “sajid”+”cse”+”bu”+”@”+”gmail”+”.”+”com”. </p>
+<p align='center'>- 😄 Pronouns: He/His. </p>
+<p align='center'>- ⚡ Fun fact: I think cooking is more like coding. I like to cook and I feel happy when I sometimes try to make fusion recipes out of nowhere in my leisure time. I make coffee because it makes me feel better. The smell of the coffee makes me refilled to start from the beginning of my mind. </p> 
 
 
 [![Sajid's github stats](https://github-readme-stats.vercel.app/api?username=idocodetobuild&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/idocodetobuild/github-readme-stats)
