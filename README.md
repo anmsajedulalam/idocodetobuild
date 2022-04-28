@@ -14,6 +14,7 @@
         <b>My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collaborate in research and development related to data science. </b>
     <font size="1">
 </p>
+<!--
 <p align='center'>
     I also have an interest in Mobile/Web App Development. I am have worked with Android and learning React Native now. I know HTML.
 </p>
@@ -23,7 +24,8 @@
 <p align='center'>
     <b>In Short:</b>
 </p>
-
+-->
+<!--
 <p align='center'>- 🔭 I’m currently working on my personal projects related to data science. </p>
 <p align='center'>- 🌱 I’m currently trying to learn more about data science. </p>
 <p align='center'>- 👯 I’m looking to collaborate on AI/ML/DL Projects. </p>
@@ -32,7 +34,7 @@
 <p align='center'>- 📫 How to reach me: “sajid”+”cse”+”bu”+”@”+”gmail”+”.”+”com”. </p>
 <p align='center'>- 😄 Pronouns: He/His. </p>
 <p align='center'>- ⚡ Fun fact: I think cooking is more like coding. I like to cook and I feel happy when I sometimes try to make fusion recipes out of nowhere in my leisure time. I make coffee because it makes me feel better. The smell of the coffee makes me refilled to start from the beginning of my mind. </p> 
-
+-->
 <!--
 [![Sajid's github stats](https://github-readme-stats.vercel.app/api?username=idocodetobuild&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/idocodetobuild/github-readme-stats)
 
