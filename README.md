@@ -10,9 +10,9 @@
 </p>
 <p align='center'>
     <font size="1">
-        I am a curious dumb guy who has a desire for tech and research. Trying to learn something each day. I love to code and build things. 
-        <b>My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collaborate in research and development related to data science.
-        </b>
+I am a curious dumb guy who has a desire for tech and research. Trying to learn something each day. I love to code and build things. 
+<b>My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collaborate in research and development related to data science.
+</b>
         
 Tbh, I'm not a theoretical person, I'm more of an implementation person. But I like to dig into loopholes by studying research papers, blogs & articles, or YouTube videos to learn more & develop them. Rn, I'm highly interested in deep learning technologies. Computer vision stuffs really fascinates me. Additionally, I'd like to work with sustainable development such as sustainable accommodation, agricultural technologies, organic food & nutrition. I want to work in research & building something which people can use at a low price but can make their life easy. There's a lot to do better things with my skills rather than just keep working to build something which people can't even afford.
 
