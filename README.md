@@ -18,6 +18,15 @@ I'm fond of problem-solving from school & was intensely involved in math club at
 The smell of coffee & rain makes my life better. It's a good combination I believe if I can have coffee while it's been raining. I've lovebirds who give me peaceful moments.
 
 ✉anmsajedulalam at gmail dot com
+
+<p align='center'>
+    <p align='center'>
+        <p align='center'>
+            <img src="https://media.giphy.com/media/OasSW8GLzw8Fb6R8hv/giphy.gif">
+        </p>
+    </p>
+</p>
+
 </p>
 <!--
 <p align='center'>
