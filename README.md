@@ -55,7 +55,7 @@ The smell of coffee & rain makes my life better. It's a good combination I belie
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idocodetobuild&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/idocodetobuild/github-readme-stats)
 -->
-
+<!--
 <p align='center'>
     <p align='center'>
         <p align='center'>
@@ -63,7 +63,7 @@ The smell of coffee & rain makes my life better. It's a good combination I belie
         </p>
     </p>
 </p>
-
+-->
 
 <!--
 ![](https://komarev.com/ghpvc/?username=neucro&color=070c2e&style=plastic&label=I+am+watching+you!+Sajid's+Profile+View+Counts)
